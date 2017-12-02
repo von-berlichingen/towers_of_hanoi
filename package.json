@@ -1,0 +1,28 @@
+{
+  "name": "towers_of_hanoi",
+  "version": "0.0.0",
+  "description": "The Towers of Hanoi is a famous puzzle. The equipment includes three posts and a set of discs of various diameters with holes in their centers. The setup stacks all of these discs on the source post with smaller discs on top of larger discs. The goal is to move the stack to the destination post by moving one disc at a time to another post never placing a larger discs on a smaller discs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/von-berlichingen/towers_of_hanoi.git"
+  },
+  "keywords": [
+    "tower",
+    "of",
+    "hanoi",
+    "puzzle",
+    "game",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Anis Ben Amara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/von-berlichingen/towers_of_hanoi/issues"
+  },
+  "homepage": "https://github.com/von-berlichingen/towers_of_hanoi#readme"
+}
